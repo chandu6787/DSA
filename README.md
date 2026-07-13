@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/chandu6787/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0074-search-a-2d-matrix](https://github.com/chandu6787/DSA/tree/master/0074-search-a-2d-matrix) |
+| [0088-merge-sorted-array](https://github.com/chandu6787/DSA/tree/master/0088-merge-sorted-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/chandu6787/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/chandu6787/DSA/tree/master/0410-split-array-largest-sum) |
 | [0875-koko-eating-bananas](https://github.com/chandu6787/DSA/tree/master/0875-koko-eating-bananas) |
@@ -55,4 +56,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/chandu6787/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/chandu6787/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [2643-row-with-maximum-ones](https://github.com/chandu6787/DSA/tree/master/2643-row-with-maximum-ones) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/chandu6787/DSA/tree/master/0088-merge-sorted-array) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/chandu6787/DSA/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
