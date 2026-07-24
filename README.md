@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/chandu6787/DSA/tree/master/0027-remove-element) |
 | [0074-search-a-2d-matrix](https://github.com/chandu6787/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/chandu6787/DSA/tree/master/0088-merge-sorted-array) |
+| [0136-single-number](https://github.com/chandu6787/DSA/tree/master/0136-single-number) |
 | [0240-search-a-2d-matrix-ii](https://github.com/chandu6787/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/chandu6787/DSA/tree/master/0410-split-array-largest-sum) |
 | [0875-koko-eating-bananas](https://github.com/chandu6787/DSA/tree/master/0875-koko-eating-bananas) |
@@ -103,4 +104,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/chandu6787/DSA/tree/master/0155-min-stack) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/chandu6787/DSA/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
