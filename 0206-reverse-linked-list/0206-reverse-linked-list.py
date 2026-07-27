@@ -16,4 +16,3 @@ class Solution:
             stack.pop()
             temp=temp.next
         return head
-        
