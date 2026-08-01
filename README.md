@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/chandu6787/DSA/tree/master/0136-single-number) |
 | [0240-search-a-2d-matrix-ii](https://github.com/chandu6787/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/chandu6787/DSA/tree/master/0410-split-array-largest-sum) |
+| [0416-partition-equal-subset-sum](https://github.com/chandu6787/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0503-next-greater-element-ii](https://github.com/chandu6787/DSA/tree/master/0503-next-greater-element-ii) |
 | [0875-koko-eating-bananas](https://github.com/chandu6787/DSA/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/chandu6787/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/chandu6787/DSA/tree/master/0410-split-array-largest-sum) |
+| [0416-partition-equal-subset-sum](https://github.com/chandu6787/DSA/tree/master/0416-partition-equal-subset-sum) |
 ## Greedy
 |  |
 | ------- |
