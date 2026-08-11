@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/chandu6787/DSA/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/chandu6787/DSA/tree/master/0136-single-number) |
 | [0240-search-a-2d-matrix-ii](https://github.com/chandu6787/DSA/tree/master/0240-search-a-2d-matrix-ii) |
+| [0322-coin-change](https://github.com/chandu6787/DSA/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/chandu6787/DSA/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/chandu6787/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/chandu6787/DSA/tree/master/0494-target-sum) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/chandu6787/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0322-coin-change](https://github.com/chandu6787/DSA/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/chandu6787/DSA/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/chandu6787/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/chandu6787/DSA/tree/master/0494-target-sum) |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/chandu6787/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0322-coin-change](https://github.com/chandu6787/DSA/tree/master/0322-coin-change) |
 ## DP on Trees
 |  |
 | ------- |
@@ -176,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Knapsack Problem
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/chandu6787/DSA/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/chandu6787/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/chandu6787/DSA/tree/master/0494-target-sum) |
 ## 0-1 Knapsack
@@ -192,4 +196,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/chandu6787/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/chandu6787/DSA/tree/master/0142-linked-list-cycle-ii) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/chandu6787/DSA/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
