@@ -6,14 +6,16 @@
 #         self.right = right
 class Solution:
     def recu(self,root):
-     if root is None:
-        return 0
-     left = self.recu(root.left)
-     right = self.recu(root.right)
-     self.ans=max(self.ans,left+right)
-     return 1 + max(left, right)
+        if root is None:
+            return 0
+        left=self.recu(root.left)
+        right=self.recu(root.right)
+        self.maxi=max(self.maxi,left+right)
+        return 1+max(left,right)
+
     def diameterOfBinaryTree(self, root: Optional[TreeNode]) -> int:
-        self.ans=0
+        self.maxi=0
         self.recu(root)
-        return self.ans
+        return self.maxi
+
         
