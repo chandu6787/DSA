@@ -13,5 +13,4 @@ class Solution:
         return 1+max(left,right)
     def maxDepth(self, root: Optional[TreeNode]) -> int:
         return self.recu(root)
-
         
