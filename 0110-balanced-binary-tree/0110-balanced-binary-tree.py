@@ -5,24 +5,28 @@
 #         self.left = left
 #         self.right = right
 class Solution:
-    def recu(self,root):
-        if root==None:
+    def recu(self, root):
+        if root is None:
             return 0
-        left=self.recu(root.left)
-        if left==-1:
-            return -1
-        right=self.recu(root.right)
-        if right==-1:
-            return -1
-        if abs(left-right)>=2:
-            return -1
-        return 1+max(left,right)
 
+        left = self.recu(root.left)
+
+        if left == -1:
+            return -1
+
+        right = self.recu(root.right)
+
+        if right == -1:
+            return -1
+
+        if abs(left - right) > 1:
+            return -1
+
+        return 1 + max(left, right)
     def isBalanced(self, root: Optional[TreeNode]) -> bool:
-        if self.recu(root)!=-1:
-            return True
-        else:
+        ans=self.recu(root)
+        if ans==-1:
             return False
-
-
+        else:
+            return True
         
