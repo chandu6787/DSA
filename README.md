@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/chandu6787/DSA/tree/master/0518-coin-change-ii) |
 | [0525-contiguous-array](https://github.com/chandu6787/DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/chandu6787/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0860-lemonade-change](https://github.com/chandu6787/DSA/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/chandu6787/DSA/tree/master/0875-koko-eating-bananas) |
 | [0930-binary-subarrays-with-sum](https://github.com/chandu6787/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/chandu6787/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/chandu6787/DSA/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/chandu6787/DSA/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/chandu6787/DSA/tree/master/0860-lemonade-change) |
 ## Prefix Sum
 |  |
 | ------- |
