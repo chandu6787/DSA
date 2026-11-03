@@ -5,12 +5,12 @@
 #         self.left = left
 #         self.right = right
 class Solution:
-    def recu(self,root):
-        if root==None:
-            return 0
-        left=self.recu(root.left)
-        right=self.recu(root.right)
-        return 1+max(left,right)
     def maxDepth(self, root: Optional[TreeNode]) -> int:
-        return self.recu(root)
+        def height(node):
+            if not node:
+                return 0
+            leftH=height(node.left)
+            rightH=height(node.right)
+            return 1+max(leftH,rightH)
+        return height(root)
         
