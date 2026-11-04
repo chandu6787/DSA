@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/chandu6787/DSA/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/chandu6787/DSA/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/chandu6787/DSA/tree/master/0416-partition-equal-subset-sum) |
+| [0435-non-overlapping-intervals](https://github.com/chandu6787/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/chandu6787/DSA/tree/master/0455-assign-cookies) |
 | [0494-target-sum](https://github.com/chandu6787/DSA/tree/master/0494-target-sum) |
 | [0503-next-greater-element-ii](https://github.com/chandu6787/DSA/tree/master/0503-next-greater-element-ii) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/chandu6787/DSA/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/chandu6787/DSA/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/chandu6787/DSA/tree/master/0416-partition-equal-subset-sum) |
+| [0435-non-overlapping-intervals](https://github.com/chandu6787/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/chandu6787/DSA/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/chandu6787/DSA/tree/master/0518-coin-change-ii) |
 ## Greedy
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/chandu6787/DSA/tree/master/0045-jump-game-ii) |
 | [0410-split-array-largest-sum](https://github.com/chandu6787/DSA/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/chandu6787/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/chandu6787/DSA/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/chandu6787/DSA/tree/master/0860-lemonade-change) |
 ## Prefix Sum
@@ -101,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/chandu6787/DSA/tree/master/0088-merge-sorted-array) |
+| [0435-non-overlapping-intervals](https://github.com/chandu6787/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/chandu6787/DSA/tree/master/0455-assign-cookies) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/chandu6787/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Linked List
