@@ -5,15 +5,17 @@
 #         self.left = left
 #         self.right = right
 class Solution:
-    def recu(self,root):
-        if root is None:
+    def maxPathSum(self, root: TreeNode | None) -> int:
+        if not root:
             return 0
-        left=max(0,self.recu(root.left))
-        right=max(0,self.recu(root.right))
-        self.maxi=max(self.maxi,root.val+left+right)
-        return root.val+max(left,right)
-    def maxPathSum(self, root: Optional[TreeNode]) -> int:
-        self.maxi=float('-inf')
-        self.recu(root)
-        return self.maxi
-        
+        ans=float('-inf')
+        def helper(node):
+            nonlocal ans
+            if not node:
+                return 0
+            leftS=max(0,helper(node.left))
+            rightS=max(0,helper(node.right))
+            ans=max(ans,node.val+leftS+rightS)
+            return node.val+max(leftS,rightS)
+        helper(root)
+        return ans
