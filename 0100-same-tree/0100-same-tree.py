@@ -5,16 +5,13 @@
 #         self.left = left
 #         self.right = right
 class Solution:
-    def recu(self,p,q):
-        if p is None and q is None:
-            return True
-        if p is None or q is None:
-            return False
-        if p.val!=q.val:
-            return False
-        return self.recu(p.left,q.left) and self.recu(p.right,q.right)
-        
-
-    def isSameTree(self, p: Optional[TreeNode], q: Optional[TreeNode]) -> bool:
-        return self.recu(p,q)
-        
+    def isSameTree(self, p: TreeNode | None, q: TreeNode | None) -> bool:
+        def helper(p,q):
+            if p==None and q==None:
+                return True
+            if (p==None and q!=None) or (p!=None and q==None):
+                return False
+            if p.val!=q.val:
+                return False
+            return helper(p.left,q.left) and helper(p.right,q.right)
+        return helper(p,q)
