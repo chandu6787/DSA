@@ -5,17 +5,19 @@
 #         self.left = left
 #         self.right = right
 class Solution:
-    def recu(self,root):
-        if root is None:
-            return 0
-        left=self.recu(root.left)
-        right=self.recu(root.right)
-        self.maxi=max(self.maxi,left+right)
-        return 1+max(left,right)
-
     def diameterOfBinaryTree(self, root: Optional[TreeNode]) -> int:
-        self.maxi=0
-        self.recu(root)
-        return self.maxi
+        if not root:
+            return 0
+        diameter=0
+        def helper(node):
+            nonlocal diameter
+            if not node:
+                return 0
+            leftH=helper(node.left)
+            rightH=helper(node.right)
+            diameter=max(diameter,leftH+rightH)
+            return 1+max(leftH,rightH)
+        helper(root)
+        return diameter
 
         
