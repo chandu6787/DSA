@@ -1,13 +1,13 @@
 class Solution:
     def jump(self, nums: list[int]) -> int:
         l,r=0,0
-        minjumps=0
+        steps=0
         while r<len(nums)-1:
             farthest=0
             for i in range(l,r+1):
-                farthest=max(farthest,i+nums[i])
+                farthest=max(farthest,nums[i]+i)
             l=r+1
             r=farthest
-            minjumps+=1
-        return minjumps
+            steps+=1
+        return steps
         
