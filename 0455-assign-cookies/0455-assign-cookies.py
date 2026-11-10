@@ -1,14 +1,12 @@
 class Solution:
     def findContentChildren(self, g: list[int], s: list[int]) -> int:
-        cookiesLen=len(s)
-        greedLen=len(g)
+        n=len(g)
+        m=len(s)
         g.sort()
         s.sort()
-        cp=0
-        gp=0
-        while cp<cookiesLen and gp<greedLen:
-            if g[gp]<=s[cp]:
-                gp+=1
-            cp+=1
-        return gp
-        
+        i,j=0,0
+        while i<n and j<m:
+            if g[i]<=s[j]:
+                i+=1
+            j+=1
+        return i
