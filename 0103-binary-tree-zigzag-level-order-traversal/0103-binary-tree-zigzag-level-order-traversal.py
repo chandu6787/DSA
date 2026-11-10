@@ -20,7 +20,7 @@ class Solution:
                     q.append(node.left)
                 if node.right:
                     q.append(node.right)
-            level=level[::-1] if len(ans)%2==1 else level
+            level=level[::-1] if len(ans)%2 else level
             ans.append(level)
         return ans 
 
