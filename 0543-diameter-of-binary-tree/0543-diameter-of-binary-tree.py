@@ -9,15 +9,15 @@ class Solution:
         if not root:
             return 0
         diameter=0
-        def helper(node):
+        def height(node):
             nonlocal diameter
             if not node:
                 return 0
-            leftH=helper(node.left)
-            rightH=helper(node.right)
-            diameter=max(diameter,leftH+rightH)
-            return 1+max(leftH,rightH)
-        helper(root)
+            left=height(node.left)
+            right=height(node.right)
+            diameter=max(diameter,left+right)
+            return 1+max(left,right)
+        height(root)
         return diameter
-
+            
         
