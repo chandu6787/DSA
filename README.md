@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/chandu6787/DSA/tree/master/0027-remove-element) |
 | [0045-jump-game-ii](https://github.com/chandu6787/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/chandu6787/DSA/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/chandu6787/DSA/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/chandu6787/DSA/tree/master/0057-insert-interval) |
 | [0074-search-a-2d-matrix](https://github.com/chandu6787/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/chandu6787/DSA/tree/master/0088-merge-sorted-array) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/chandu6787/DSA/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/chandu6787/DSA/tree/master/0088-merge-sorted-array) |
 | [0435-non-overlapping-intervals](https://github.com/chandu6787/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/chandu6787/DSA/tree/master/0455-assign-cookies) |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Quicksort
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/chandu6787/DSA/tree/master/0056-merge-intervals) |
 | [0455-assign-cookies](https://github.com/chandu6787/DSA/tree/master/0455-assign-cookies) |
 ## Union-Find
 |  |
