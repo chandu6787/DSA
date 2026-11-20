@@ -10,4 +10,5 @@ class Solution:
                 arr[i]=max(arr[i],arr[i+1]+1)
         ans=sum(arr)
         return ans
+
         
