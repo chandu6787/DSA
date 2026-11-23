@@ -1,11 +1,11 @@
 class Solution:
     def canPartition(self, nums: list[int]) -> bool:
-        summ=sum(nums)
-        if ((summ)%2)==1:
+        arr_sum=sum(nums)
+        if arr_sum%2!=0:
             return False
         else:
-            target=summ//2
             n=len(nums)
+            target=arr_sum//2
             dp=[[False]*(target+1) for i in range(n+1)]
             for i in range(n+1):
                 dp[i][0]=True
