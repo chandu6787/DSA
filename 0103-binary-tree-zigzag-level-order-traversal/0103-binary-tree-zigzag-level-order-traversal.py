@@ -12,16 +12,17 @@ class Solution:
         q=deque([root])
         ans=[]
         while q:
+            n=len(q)
             level=[]
-            for i in range(len(q)):
+            for i in range(n):
                 node=q.popleft()
                 level.append(node.val)
                 if node.left:
                     q.append(node.left)
                 if node.right:
-                    q.append(node.right)
-            level=level[::-1] if len(ans)%2 else level
+                    q.append(node.right) 
+            level=level[::-1] if len(ans)%2==1 else level
             ans.append(level)
-        return ans 
-
-        
+        return ans
+            
+                    
