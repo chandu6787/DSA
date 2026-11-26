@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/chandu6787/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/chandu6787/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/chandu6787/DSA/tree/master/0494-target-sum) |
+| [0516-longest-palindromic-subsequence](https://github.com/chandu6787/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/chandu6787/DSA/tree/master/0518-coin-change-ii) |
 | [0678-valid-parenthesis-string](https://github.com/chandu6787/DSA/tree/master/0678-valid-parenthesis-string) |
 | [1143-longest-common-subsequence](https://github.com/chandu6787/DSA/tree/master/1143-longest-common-subsequence) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/chandu6787/DSA/tree/master/0020-valid-parentheses) |
+| [0516-longest-palindromic-subsequence](https://github.com/chandu6787/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/chandu6787/DSA/tree/master/0678-valid-parenthesis-string) |
 | [1143-longest-common-subsequence](https://github.com/chandu6787/DSA/tree/master/1143-longest-common-subsequence) |
 ## Stack
