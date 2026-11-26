@@ -13,4 +13,5 @@ class Solution:
         root.left=self.buildTree(preorder,inorder[:idx])
         root.right=self.buildTree(preorder,inorder[idx+1:])
         return root
+
         
